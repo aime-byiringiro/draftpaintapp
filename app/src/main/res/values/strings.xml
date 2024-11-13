@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="image_tool">Image Tool</string>
+    <string name="undo_tool">Undo Tool</string>
+    <string name="save_tool">Save Tool</string>
+    <string name="pencil_tool">Pencil Tool</string>
+    <string name="todo">TODO</string>
+</resources>

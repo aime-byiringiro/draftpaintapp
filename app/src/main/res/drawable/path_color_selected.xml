@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <stroke
+        android:width="5dp"
+        android:color="@color/gray" />
+
+<!--  HEL
+
+5dp between shapes
+hegiht is 50 dp for each
+the overall baar is linear layout
+for each image veiw, you are allowed use toos:ignore ="ImageCotrastCheck"
+50 dp for the height and 5dp for the width
+
+-->
+<!--    YO-->
+</shape>
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="brush_iv" type="id" />
+    <item name="width_small" type="id" />
+    <item name="width_medium" type="id" />
+    <item name="width_large" type="id" />
+    <item name="undo_iv" type="id" />
+    <item name="save_iv" type="id" />
+    <item name="image_iv" type="id" />
+</resources>
